@@ -1046,3 +1046,4 @@ logger=migrator t=2025-10-29T18:14:59.439377556Z level=info msg="Executing migra
 logger=migrator t=2025-10-29T18:14:59.457458293Z level=info msg="Migration successfully executed" id="add provisioning column" duration=18.087563ms
 logger=migrator t=2025-10-29T18:14:59.539682099Z level=info msg="Executing migration" id="add type column"
 logger=migrator t=2025-10-29T18:14:59.556953719Z level=info msg="Migration successfully executed" id="add type column" duration=17.270604ms
+
